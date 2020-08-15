@@ -22,9 +22,9 @@ char ssid[] = "Redmi-12";
 char wifiPassword[] = "Test@1234";
 
 // Cayenne authentication info. This should be obtained from the Cayenne Dashboard.
-char username[] = "0c6e8050-2b95-11e8-a353-951fa95ba610";
-char password[] = "2aafaec51df9c46fa44b316272bb223c5ddf9c1d";
-char clientID[] = "7650da90-6554-11ea-a38a-d57172a4b4d4";
+char username[] = "add username";
+char password[] = "add password";
+char clientID[] = "add client ID";
 
 
 void setup() {
